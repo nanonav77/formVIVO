@@ -13,19 +13,18 @@
 <body>
 	<header id="main-header">
 		
-		<a id="logo-header" href="#">
-			<span class="site-name">FranciscoAMK</span>
-			<span class="site-desc">Diseño web / WordPress / Tutoriales</span>
-		</a> <!-- / #logo-header -->
- 
-		<nav>
-			<ul>
-				<li><a href="#">Inicio</a></li>
-				<li><a href="#">Acerca de</a></li>
-				<li><a href="#">Contacto</a></li>
-			</ul>
-		</nav><!-- / nav -->
- 
+		<img id="logo-header"/>
+ 			
 	</header><!-- / #main-header -->
+	<nav role="navigation">
+		<ul id="main-nav" role="list">
+        	<li role="listitem"><a href="/vivo/" title="Home menu item"  class="selected" >Home</a></li>
+            <li role="listitem"><a href="/vivo/people" title="Investigadores menu item" >Investigadores</a></li>
+            <li role="listitem"><a href="/vivo/organizations" title="Organizations menu item" >Organizations</a></li>
+            <li role="listitem"><a href="/vivo/research" title="Publicaciones menu item" >Publicaciones</a></li>
+            <li role="listitem"><a href="/vivo/events" title="Events menu item" >Events</a></li>
+    	</ul>
+	</nav>
+	
 </body>
 </html>
