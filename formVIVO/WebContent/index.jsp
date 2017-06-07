@@ -6,7 +6,8 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<link rel="stylesheet" href="css/style.css">
-	<title>Crear Cuenta</title>
+	<link rel="stylesheet" href="css/wilma.css">
+	<title>MICITT-VIVO</title>
 	
 </head>
 
@@ -18,13 +19,29 @@
 	</header><!-- / #main-header -->
 	<nav role="navigation">
 		<ul id="main-nav" role="list">
-        	<li role="listitem"><a href="/vivo/" title="Home menu item"  class="selected" >Home</a></li>
-            <li role="listitem"><a href="/vivo/people" title="Investigadores menu item" >Investigadores</a></li>
-            <li role="listitem"><a href="/vivo/organizations" title="Organizations menu item" >Organizations</a></li>
-            <li role="listitem"><a href="/vivo/research" title="Publicaciones menu item" >Publicaciones</a></li>
-            <li role="listitem"><a href="/vivo/events" title="Events menu item" >Events</a></li>
-    	</ul>
+			<li role="listitem"><a href="index.jsp" title="Crear una cuenta en VIVO"  class="selected" >Crear cuenta</a></li>
+            <li role="listitem"><a href="actualizarCuenta.jsp" title="Actualizar datos de su cuenta en VIVO" >Actualizar datos</a></li>
+            <li role="listitem"><a href="curar.jsp" title="Proceso administrativo" >Curar solicitudes</a></li>
+			
+       	</ul>
 	</nav>
+	
+	<div id="wrapper-content" role="main">        
+		<section id="intro" role="region">
+            <h2>Bienvenido a VIVO</h2>
+
+            <p>VIVO es una herramienta de descubrimiento centrada en la investigación que permite la 
+            colaboración entre científicos de todas las disciplinas. Navegar o buscar información sobre 
+            personas, departamentos, cursos, subvenciones y publicaciones.</p>
+         
+
+           
+        </section> <!-- #intro -->
+        
+
+
+
+</div> <!-- #wrapper-content -->
 	
 </body>
 </html>
