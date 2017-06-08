@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.0" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="modelo.logicaDeNegocios.Cientifico" project="formVIVO" 
+    file="/formVIVO/src/modelo/logicaDeNegocios/Cientifico.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="329" width="173" x="267" y="-77"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="modelo.logicaDeNegocios.GradoAcademico" project="formVIVO" 
+    file="/formVIVO/src/modelo/logicaDeNegocios/GradoAcademico.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="149" width="232" x="480" y="-77"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="modelo.logicaDeNegocios.AreaInvestigacion" project="formVIVO" 
+    file="/formVIVO/src/modelo/logicaDeNegocios/AreaInvestigacion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="113" width="172" x="752" y="-77"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="modelo.logicaDeNegocios.LugarOrigen" project="formVIVO" 
+    file="/formVIVO/src/modelo/logicaDeNegocios/LugarOrigen.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="149" width="208" x="964" y="-77"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="modelo.logicaDeNegocios.Actividad" project="formVIVO" 
+    file="/formVIVO/src/modelo/logicaDeNegocios/Actividad.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="203" width="284" x="1212" y="-77"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="modelo.enlaceDatos.SingletonConexionMySQL" project="formVIVO" 
+    file="/formVIVO/src/modelo/enlaceDatos/SingletonConexionMySQL.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="77" width="172" x="519" y="243"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="modelo.enlaceDatos.ConexionMySQL" project="formVIVO" 
+    file="/formVIVO/src/modelo/enlaceDatos/ConexionMySQL.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="77" width="119" x="731" y="243"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="controlador.ServletControler" project="formVIVO" 
+    file="/formVIVO/src/controlador/ServletControler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="77" width="119" x="687" y="109"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
