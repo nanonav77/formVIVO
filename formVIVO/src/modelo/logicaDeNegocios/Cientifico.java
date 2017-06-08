@@ -68,14 +68,8 @@ public class Cientifico {
      */
     private String genero;
 
-    /**
-     * 
-     */
     private String descripcion;
 
-    /**
-     * 
-     */
     private String orcid;
 
 
