@@ -45,7 +45,7 @@
 	  	  
 	  <tr>
 	   
-	    <td><label style="color:black;height:20px; width:10px">DATOS PERSONALES:</label></td>
+	    <td><h2>Datos Personales:</h2></td>
 	    
 	  </tr>
 	  

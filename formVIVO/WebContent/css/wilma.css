@@ -610,6 +610,18 @@ body.loggedIn #intro {
     color: #5f6464;
     line-height: 1.3em;
     padding: 0 24px 0 24px;
+    text-aling: justify;
+}
+#formulario {
+    float: left;
+    width: 570px;
+    padding-bottom: 50px;
+}
+
+#formulario h2 {
+    padding: 35px 0 12px 24px;
+    border-bottom: none;
+    color: #2485AE;
 }
 #intro a,
 #individual-intro ul.individual-urls li a,

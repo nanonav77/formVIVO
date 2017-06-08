@@ -27,10 +27,11 @@
 	
 	<div id="wrapper-content" role="main">        
 		<section id="intro2" role="region">
-            <h2>Bienvenido a VIVO</h2>
+            <h2>Actualización de Datos</h2>
 
-            <p>VIVO es una herramienta de descubrimiento centrada en la investigación que permite la colaboración entre científicos de todas las disciplinas.</p>
-            <p>Navegar o buscar información sobre personas, departamentos, cursos, subvenciones y publicaciones.</p>
+            <p>Inicie sesión y actualice o agregue la información que desea.</p>
+            <p>NOTA: Para actualizar sus datos, su solicitud de registro debe haber sido verificada y aprobada.
+            Los datos que actualice o agregue debe ser verificados y aprobados por un curador.</p>
 
            
         </section> <!-- #intro -->
